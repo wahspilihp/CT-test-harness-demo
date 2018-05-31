@@ -1,0 +1,144 @@
+File     : wayby001_game.c
+Author   : Batman
+Stud ID  : 0123456X
+Email ID : wayby001
+This is my own work as defined by the University's Academic Misconduct Policy.
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+Please enter either 's', 'd' or 'q'
+
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Deal
+Comp chose: Deal
+
+Draw! Split pot - 50 each!
+
+>> Your score: 50 -- Comp score: 50 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Steal
+Comp chose: Deal
+
+You win! You gain 100.
+
+>> Your score: 150 -- Comp score: 50 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Deal
+Comp chose: Steal
+
+You lose! Comp gains 100.
+
+>> Your score: 150 -- Comp score: 150 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Steal
+Comp chose: Steal
+
+Too greedy! You get nothing!
+
+>> Your score: 150 -- Comp score: 150 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Steal
+Comp chose: Deal
+
+You win! You gain 100.
+
+
+Careful... one more steal and you lose it all!
+
+>> Your score: 250 -- Comp score: 150 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Deal
+Comp chose: Steal
+
+You lose! Comp gains 100.
+
+>> Your score: 250 -- Comp score: 250 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Steal
+Comp chose: Steal
+
+Too greedy! You get nothing!
+
+>> Your score: 250 -- Comp score: 250 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Deal
+Comp chose: Steal
+
+You lose! Comp gains 100.
+
+>> Your score: 250 -- Comp score: 350 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Steal
+Comp chose: Steal
+
+Too greedy! You get nothing!
+
+>> Your score: 250 -- Comp score: 350 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Steal
+Comp chose: Steal
+
+Too greedy! You get nothing!
+
+
+Careful... one more steal and you lose it all!
+
+>> Your score: 250 -- Comp score: 350 <<
+
+
+Game limit reached.
+
+
+Game Summary
+------------
+
+You played 10 games:
+  |--> Won:       2
+  |--> Lost:      3
+  |--> Drawn:     5
+
+Your final score: 250
+Comp final score: 350
+
+Computer Wins!
+
+
+Thanks for playing :)

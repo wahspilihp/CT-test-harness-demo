@@ -1,0 +1,70 @@
+File     : wayby001_game.c
+Author   : Batman
+Stud ID  : 0123456X
+Email ID : wayby001
+This is my own work as defined by the University's Academic Misconduct Policy.
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Steal
+Comp chose: Deal
+
+You win! You gain 100.
+
+>> Your score: 100 -- Comp score: 0 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Deal
+Comp chose: Deal
+
+Draw! Split pot - 50 each!
+
+>> Your score: 150 -- Comp score: 50 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Deal
+Comp chose: Steal
+
+You lose! Comp gains 100.
+
+>> Your score: 150 -- Comp score: 150 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+You chose:  Steal
+Comp chose: Steal
+
+Too greedy! You get nothing!
+
+>> Your score: 150 -- Comp score: 150 <<
+
+
+Jackpot: 100
+Steal, Deal or Quit [s|d|q]? 
+
+
+Game Summary
+------------
+
+You played  4 games:
+  |--> Won:       1
+  |--> Lost:      1
+  |--> Drawn:     2
+
+Your final score: 150
+Comp final score: 150
+
+Draw - No Winner!
+
+
+Thanks for playing :)
